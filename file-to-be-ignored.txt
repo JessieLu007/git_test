@@ -1,0 +1,1 @@
+this is a file that will be added in the rep first and commit, then add it in the ignore file, and see if it works.
